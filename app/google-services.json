@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306464338521",
+    "firebase_url": "https://careful-griffin-257415.firebaseio.com",
+    "project_id": "careful-griffin-257415",
+    "storage_bucket": "careful-griffin-257415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306464338521:android:51b990c23f7efd48503748",
+        "android_client_info": {
+          "package_name": "com.example.accidentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306464338521-uu9b3pac3cmmv9g8gmlg9ig2pf3ubv03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accidentapp",
+            "certificate_hash": "7d2e3ca7750c5b96a7884248ab267b806f181447"
+          }
+        },
+        {
+          "client_id": "306464338521-edkoa8gnvuju9ajhf30k3orsobid4f3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQlTzZ0vnLKSnhxcAiPP9q4_f2ValIZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306464338521-edkoa8gnvuju9ajhf30k3orsobid4f3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
